@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vizaydata
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data skills
-- 💞️ I’m looking to collaborate on data prodigies
+- 💞️ I’m looking to collaborate on data scientists
 - 📫 How to reach me vizaydata@gmail.com
 
 <!---
